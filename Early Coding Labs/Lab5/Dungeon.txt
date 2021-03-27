@@ -1,0 +1,35 @@
+1 #Lobby.# -1 4 3 2
+2 #Privy.# -1 -1 1 -1
+3 #Eating Hall.# -1 5 -1 1
+4 #Courtyard.# 1 8 5 -1
+5 #Walkway.# 3 9 6 4
+6 #Sepulcher.# 7 10 -1 5
+7 #Ossuary.# -1 6 -1 -1
+8 #Music Hall.# 4 14 -1 11
+9 #Antechamber.# 5 15 10 -1
+10 #Asylum.# 6 -1 -1 9
+11 #Studio.# 12 13 8 -1
+12 #Dressing Room.# -1 11 -1 -1
+13 #Workshop.# 11 17 14 -1
+14 #Library.# 8 18 15 13
+15 #Laboratory.# 9 19 16 14
+16 #Garden.# -1 20 -1 15
+17 #Crematorium.# 13 -1 -1 -1
+18 #Labyrinth.# 14 21 -1 -1
+19 #Office.# 15 22 -1 -1
+20 #Kennel.# 16 23 -1 -1
+21 #Prison.# 18 24 22 -1
+22 #Guard Post.# 19 -1 23 21
+23 #Passageway.# 20 -1 -1 22
+24 #Chapel.# 21 27 26 25
+25 #Kitchen.# -1 -1 24 -1
+26 #Armory.# -1 -1 -1 24
+27 #Hidden Laboratory.# 24 -1 29 28
+28 #Infirmary.# -1 31 27 -1
+29 #Crypt.# -1 32 30 27
+30 #Skull Throne.# -1 -1 -1 29
+31 #Sewing Room.# 28 -1 -1 -1
+32 #Shrine of Nurgle.# 29 33 -1 -1
+33 #Tower.# 32 -1 -1 34
+34 #Rampart.# -1 -1 33 35
+35 #Vault.# -1 -1 34 -1
